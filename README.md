@@ -1,6 +1,5 @@
-This is a place for dumping reusable blender scripts.  
+## Reusable Blender Scripts 
 
-They are meant to be run from the text editor while working.
+These are meant to be run from the text editor while working.
 
 Steal as needed
-
