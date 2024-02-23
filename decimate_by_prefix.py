@@ -1,5 +1,8 @@
 import bpy
 
+# This script iterates over all objects in the scene that start with the PREFIX variable
+# defined below and applies a decimate modifier to them.
+
 #CHANGE THESE INPUTS
 PREFIX = "PREFIX"
 VERTEX_THRESHHOLD = 10
